@@ -1,16 +1,16 @@
-import java.io.*;
+﻿import java.io.*;
 import java.net.URL;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * RegularTest
+ * Backup
  *
  * @author: onlylemi
  * @time: 2016-04-05 16:53
  */
-public class RegularTest {
+public class Backup {
 
     private static List<String> list;
 
@@ -82,7 +82,7 @@ public class RegularTest {
         try {
             url = new URL(urlStr);
             // 读取网页内容
-            BufferedReader in = new BufferedReader(new InputStreamReader(url.openStream(), "utf-8"));
+            BufferedReader in = new BufferedReader(new InputStreamReader(url.openStream(), "UTF-8"));
             while ((temp = in.readLine()) != null) {
                 sb.append(temp);
             }
