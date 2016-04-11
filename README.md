@@ -4,6 +4,7 @@
 > 创始人：@[代码家](https://github.com/daimajia)  
 > Github备份：@[onlylemi](https://github.com/onlylemi)
 
+* `2016-04-11` [这脑洞太大我已无力承受，你能想明白其中的逻辑么？（见休息视频](http://gank.io/2016/04/11)
 * `2016-04-08` [治愈动画短片：松鼠的历险](http://gank.io/2016/04/08)
 * `2016-04-07` [一个超漂亮的 Android Tab 导航实现](http://gank.io/2016/04/07)
 * `2016-04-06` [Yalantis 又推出新库！ 简直好看到爆！](http://gank.io/2016/04/06)
