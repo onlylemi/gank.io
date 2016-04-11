@@ -134,7 +134,7 @@ public class Backup {
      */
     public static String getUrl(String str) {
         String href = "";
-        Matcher matcher = Pattern.compile("http(s)?://([\\w-]+\\.)+[\\w-]+(/[\\w - ./?%&=]*)?").matcher(str);
+        Matcher matcher = Pattern.compile("((http|ftp|https)://)(([a-zA-Z0-9\\._-]+\\.[a-zA-Z]{2,6})|([0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}))(:[0-9]{1,4})*(/[a-zA-Z0-9\\&%_\\./-~-]*)?").matcher(str);
         if (matcher.find()) {
             href = matcher.group();
         }
