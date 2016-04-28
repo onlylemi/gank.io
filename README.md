@@ -4,6 +4,7 @@
 > 创始人：@[代码家](https://github.com/daimajia)  
 > Github备份：@[onlylemi](https://github.com/onlylemi)
 
+* `2016-04-27` [小明一出手，便知有没有！](http://gank.io/2016/04/27)
 * `2016-04-26` [励志滑板短片[梦想] ](http://gank.io/2016/04/26)
 * `2016-04-25` [你还记得这些画面吗？(暴露年龄系列](http://gank.io/2016/04/25)
 * `2016-04-22` [每天一秒钟，成为新自己](http://gank.io/2016/04/22)
