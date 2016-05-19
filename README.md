@@ -4,6 +4,7 @@
 > 创始人：@[代码家](https://github.com/daimajia)  
 > Github备份：@[onlylemi](https://github.com/onlylemi)
 
+* `2016-05-19` [昨天的 Google IO 看了么？感觉如何？](http://gank.io/2016/05/19)
 * `2016-05-18` [今晚，Google IO Extend，欢迎一起来 High！](http://gank.io/2016/05/18)
 * `2016-05-17` [施瓦辛格的励志演讲](http://gank.io/2016/05/17)
 * `2016-05-16` [猜不透的结局，套路何其多!](http://gank.io/2016/05/16)
