@@ -4,6 +4,7 @@
 > 创始人：@[代码家](https://github.com/daimajia)  
 > Github备份：@[onlylemi](https://github.com/onlylemi)
 
+* [`2016-05-23`](http://gank.io/2016/05/23) [8分钟混剪，看尽电影世界里的哲学（PS：今天的干货超棒](https://github.com/onlylemi/gank.io/blob/master/2016/05/2016-05-23-8分钟混剪，看尽电影世界里的哲学（PS：今天的干货超棒.md)
 * [`2016-05-20`](http://gank.io/2016/05/20) [快来看昨天妹子的正脸，感觉好像刘亦菲](https://github.com/onlylemi/gank.io/blob/master/2016/05/2016-05-20-快来看昨天妹子的正脸，感觉好像刘亦菲.md)
 * [`2016-05-19`](http://gank.io/2016/05/19) [昨天的 Google IO 看了么？感觉如何？](https://github.com/onlylemi/gank.io/blob/master/2016/05/2016-05-19-昨天的 Google IO 看了么？感觉如何？.md)
 * [`2016-05-18`](http://gank.io/2016/05/18) [今晚，Google IO Extend，欢迎一起来 High！](https://github.com/onlylemi/gank.io/blob/master/2016/05/2016-05-18-今晚，Google IO Extend，欢迎一起来 High！.md)
