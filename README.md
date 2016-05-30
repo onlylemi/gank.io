@@ -4,6 +4,7 @@
 > 创始人：@[代码家](https://github.com/daimajia)  
 > Github备份：@[onlylemi](https://github.com/onlylemi)
 
+* [`2016-05-30`](http://gank.io/2016/05/30) [有些事只有女生才能做，男生做的话会（韩国版](https://github.com/onlylemi/gank.io/blob/master/2016/05/2016-05-30-有些事只有女生才能做，男生做的话会（韩国版.md)
 * [`2016-05-27`](http://gank.io/2016/05/27) [那些女生做起来很正常，男生做起来很奇怪的事...](https://github.com/onlylemi/gank.io/blob/master/2016/05/2016-05-27-那些女生做起来很正常，男生做起来很奇怪的事....md)
 * [`2016-05-26`](http://gank.io/2016/05/26) [昨天陆家嘴视频害的 Tumblr 都被河蟹了，因小失大啊，老司机们！](https://github.com/onlylemi/gank.io/blob/master/2016/05/2016-05-26-昨天陆家嘴视频害的 Tumblr 都被河蟹了，因小失大啊，老司机们！.md)
 * [`2016-05-25`](http://gank.io/2016/05/25) [程序员该如何挑选合适的耳机（见：今日视频](https://github.com/onlylemi/gank.io/blob/master/2016/05/2016-05-25-程序员该如何挑选合适的耳机（见：今日视频.md)
