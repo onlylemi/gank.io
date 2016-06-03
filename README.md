@@ -4,6 +4,7 @@
 > 创始人：@[代码家](https://github.com/daimajia)  
 > Github备份：@[onlylemi](https://github.com/onlylemi)
 
+* [`2016-06-03`](http://gank.io/2016/06/03) [九分钟看完日本历史（见休息视频](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-03-九分钟看完日本历史（见休息视频.md)
 * [`2016-06-02`](http://gank.io/2016/06/02) [再来看一次《当幸福来敲门》](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-02-再来看一次《当幸福来敲门》.md)
 * [`2016-06-01`](http://gank.io/2016/06/01) [宠物小精灵 和 GBA 就是我的童年，你的童年呢？](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-01-宠物小精灵 和 GBA 就是我的童年，你的童年呢？.md)
 * [`2016-05-31`](http://gank.io/2016/05/31) [一年一度的高考和毕业季要来了](https://github.com/onlylemi/gank.io/blob/master/2016/05/2016-05-31-一年一度的高考和毕业季要来了.md)
