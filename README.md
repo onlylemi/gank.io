@@ -4,6 +4,7 @@
 > 创始人：@[代码家](https://github.com/daimajia)  
 > Github备份：@[onlylemi](https://github.com/onlylemi)
 
+* [`2016-06-20`](http://gank.io/2016/06/20) [老外对辣条的初体验 _（:3_∠）_  （见休息视频](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-20-老外对辣条的初体验 _（:3_∠）_  （见休息视频.md)
 * [`2016-06-17`](http://gank.io/2016/06/17) [有没有觉得最近干货质量超高的！一首 Every Time 结束这疲惫的一周~](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-17-有没有觉得最近干货质量超高的！一首 Every Time 结束这疲惫的一周~.md)
 * [`2016-06-16`](http://gank.io/2016/06/16) [游泳时不小心摸到别人的小弟弟怎么办？！](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-16-游泳时不小心摸到别人的小弟弟怎么办？！.md)
 * [`2016-06-15`](http://gank.io/2016/06/15) [你还记得那个你毕业季分手的那个姑娘么？（见休息视频](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-15-你还记得那个你毕业季分手的那个姑娘么？（见休息视频.md)
