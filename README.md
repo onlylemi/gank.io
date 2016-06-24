@@ -4,6 +4,8 @@
 > 创始人：@[代码家](https://github.com/daimajia)  
 > Github备份：@[onlylemi](https://github.com/onlylemi)
 
+* [`2016-06-24`](http://gank.io/2016/06/24) [下周起，所有的干货都会有配图啦~ 给大家一个更直观的体验~](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-24-下周起，所有的干货都会有配图啦~ 给大家一个更直观的体验~.md)
+* [`2016-06-23`](http://gank.io/2016/06/23) [给大家推荐一部超好看的俄剧：《我是如何成为俄罗斯人的》](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-23-给大家推荐一部超好看的俄剧：《我是如何成为俄罗斯人的》.md)
 * [`2016-06-22`](http://gank.io/2016/06/22) [当这些极限运动遇到神曲《Fade》，一下子就让你清醒起来！](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-22-当这些极限运动遇到神曲《Fade》，一下子就让你清醒起来！.md)
 * [`2016-06-21`](http://gank.io/2016/06/21) [你的耳机音质到底如何？教你如何选耳机（见休息视频）](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-21-你的耳机音质到底如何？教你如何选耳机（见休息视频）.md)
 * [`2016-06-20`](http://gank.io/2016/06/20) [老外对辣条的初体验 _（:3_∠）_  （见休息视频](https://github.com/onlylemi/gank.io/blob/master/2016/06/2016-06-20-老外对辣条的初体验 _（:3_∠）_  （见休息视频.md)
